@@ -1,0 +1,19 @@
+{
+  "name": "projeto_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Rogério.R"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rogerio-Rabello/projeto_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rogerio-Rabello/projeto_node/issues"
+  },
+  "homepage": "https://github.com/Rogerio-Rabello/projeto_node#readme"
+}
